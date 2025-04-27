@@ -1,6 +1,7 @@
 # Game Development Assignment One
 
 This is a Unity 3D project created for my Game Development assignment. It demonstrates basic concepts such as scene setup, object movement, player control, and simple game mechanics.
+Check out the project demo here: [Watch on YouTube](https://youtu.be/4aSQenRUxMU)
 
 ## 🚀 Project Features
 - Basic player movement
